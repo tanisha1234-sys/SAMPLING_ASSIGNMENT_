@@ -1,4 +1,4 @@
-# **"Utilizing Sampling Methods and Machine Learning Models for Credit Card Fraud Detection"** 
+# **Utilizing Sampling Methods and Machine Learning Models for Credit Card Fraud Detection** 
 
 ## Overview of Assignment
 
