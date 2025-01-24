@@ -52,4 +52,4 @@ Each model is trained and tested with the five sampling techniques, and performa
 ![image](https://github.com/user-attachments/assets/1d457cd9-db9e-446d-a8de-089cc58a582c)
 
 
-## After evaluating the performance of various sampling techniques combined with different machine learning models, the results revealed that RandomForestClassifier along with oversampler sampling method had the most accuracy of 0.997817
+##After testing different sampling methods with various models, the RandomForestClassifier with oversampling gave the highest accuracy of 1.000000.
