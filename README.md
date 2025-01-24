@@ -1,8 +1,8 @@
-# **Credit Card Fraud Detection using Sampling Techniques and Machine Learning Models** 
+# **"Utilizing Sampling Methods and Machine Learning Models for Credit Card Fraud Detection"** 
 
 ## Overview
 
-This project aims to explore various sampling techniques to handle class imbalance in a dataset and evaluate their performance with different machine learning models. The dataset used in this project is the Credit Card Fraud Detection dataset, which is originally imbalanced. The goal is to apply five sampling techniques to balance the dataset and use five machine learning models to evaluate their performance.
+This project focuses on finding ways to fix the imbalance in datasets and test how well different machine learning models perform. The dataset used is for detecting credit card fraud, which has more legitimate transactions than fraudulent ones. The goal is to use five different techniques to balance the data and then test five machine learning models to see which one works best.
 
 ## Dataset
 
@@ -12,9 +12,9 @@ Credit Card Data CSV
 
 ## Data Description
 
-Class: The target variable, where 1 represents a fraudulent transaction, and 0 represents a non-fraudulent transaction.
+Class: This shows whether the transaction is fraudulent (1) or not (0).
 
-V1 to V28: Various unknown features representing different aspects of the transaction.
+V1 to V28: These are different features that describe details about the transaction.
 
 ## Objective
 
@@ -43,9 +43,9 @@ Decision Tree
 
 Random Forest 
 
-Support Vector Machine 
+GradientBoosting
 
-K-Nearest Neighbors 
+ExtremeGradientBoost
 
 Each model is trained and tested with the five sampling techniques, and performance is evaluated using accuracy.
 
